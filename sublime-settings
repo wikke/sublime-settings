@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
+	"detect_indentation": false,
+	"font_size": 13.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+	],
+	"tab_size": 2,
+	"theme": "Nexus.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
